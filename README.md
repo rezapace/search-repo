@@ -1,2 +1,2 @@
-# search-repo
- indexing repository with js 
+npm install node-fetch
+searchrepo.js
