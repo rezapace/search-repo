@@ -1,2 +1,9 @@
+```bash
 npm install node-fetch
-searchrepo.js
+```
+
+```bash
+node searchrepo.js
+```
+
+![Logo](https://github.com/rezapace/search-repo/blob/main/output.jpg?raw=true)
